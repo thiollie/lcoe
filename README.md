@@ -2,6 +2,8 @@
 
 Ce dépôt github contient les codes Python pour le calcul des LCOE présentés dans le chapitre 2 de l'ouvrage "Économie de l'énergie nucléaire" publié chez ISTE. 
 
+Les outils mis à disposition sont des versions relativement simplifiés. Ils visent à fournir des codes de base permettant de calculer les bons ordres de grandeurs. Ce dépot est un "Work In Progress". N'hésitez pas à me contacter si vous voulez y contribuer.
+
 ## 1 - Calcul réacteur
 
 Nous considérons ici un calcul de référence basé sur une logique de scénario avec un réacteur dont les caractéristiques techniques sont clairement définies. L’instant de référence est fixé à l’année de mise en service du réacteur.
